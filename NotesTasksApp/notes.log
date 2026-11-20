@@ -1,0 +1,7 @@
+2026-11-20 19:55:40,568 [INFO] storage.json_repository: Імпортовано 60 записів і 5 тегів із data\notes.json
+2026-11-20 19:55:40,580 [INFO] services.indexer_service: Індексацію завершено (60 записів): T1=3.11 мс, T4=8.51 мс, S=0.37
+2026-11-20 20:02:02,422 [INFO] services.controller: Додано запис 'j' (ChecklistTask)
+2026-11-20 20:10:38,316 [INFO] storage.json_repository: Імпортовано 10000 записів і 5 тегів із C:/Users/капец/Desktop/курс раб/NotesTasksApp/data/notes_10000.json
+2026-11-20 20:10:39,011 [INFO] services.indexer_service: Індексацію завершено (10000 записів): T1=302.59 мс, T4=374.92 мс, S=0.81
+2026-11-20 20:13:50,772 [INFO] storage.json_repository: Звіт XML за тегом 'ООП' (2606 задач) збережено у C:/Users/капец/Desktop/курс раб/report_oop.xml
+2026-11-20 21:09:41,208 [INFO] services.controller: Додано запис 'Підготовка до захисту курсової роботи' (ChecklistTask)
