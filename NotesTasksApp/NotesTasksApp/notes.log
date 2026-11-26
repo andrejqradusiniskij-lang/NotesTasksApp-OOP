@@ -1,0 +1,2 @@
+2026-11-26 11:57:32,083 [INFO] storage.json_repository: Імпортовано 60 записів і 5 тегів із C:\Users\капец\Desktop\NotesTasksApp\data\notes.json
+2026-11-26 11:57:32,087 [INFO] services.indexer_service: Індексацію завершено (60 записів): T1=1.14 мс, T4=3.18 мс, S=0.36
